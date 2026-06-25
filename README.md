@@ -129,14 +129,6 @@ Features:
 
 ---
 
-## Future Improvements
-
-- Resume upload functionality.
-- Automated keyword matching.
-- Candidate comparison tool.
-- Integration with HR Information Systems (HRIS).
----
-
 ## Author
 
 **Muhammad Syahmi Haziq Bin Sahrol**
