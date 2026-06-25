@@ -141,6 +141,6 @@ Features:
 
 **Muhammad Syahmi Haziq Bin Sahrol**
 
-Bachelor of Business Administration (Hons.) Human Resource Management
+Bachelor of Business in Human Resource Management
 
 Universiti Teknologi MARA (UiTM)
