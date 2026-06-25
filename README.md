@@ -24,16 +24,36 @@ This project simulates a real-world recruitment process and demonstrates how HR 
 
 ## Features
 
-### Candidate Database
-Stores candidate information including:
+## Candidate Database
 
+The candidate database stores and evaluates applicant information, including:
+
+### Candidate Information
 - Candidate ID
-- Name
+- Candidate Name
 - Degree
+
+### Assessment Criteria
 - CGPA
 - Experience (Years)
-- Excel Skill Level
+- Excel Skill Rating
 - Interview Score
+
+### Calculated Metrics
+- Weighted CGPA Score
+- Weighted Experience Score
+- Weighted Excel Skill Score
+- Weighted Interview Score
+- Total Candidate Score
+- Candidate Rank
+
+### Recruitment Decision Metrics
+- Status (Shortlist, Review, Reject)
+- Recommendation
+- Candidate Strength
+- Candidate Risk
+- Final Decision
+- Candidate Summary
 
 ### Candidate Scoring System
 Candidates are evaluated using weighted criteria:
@@ -45,10 +65,6 @@ Candidates are evaluated using weighted criteria:
 | Excel Skill | 20% |
 | Interview Score | 30% |
 
-### Candidate Ranking System
-- Automatic ranking of candidates.
-- Identification of top-performing applicants.
-- Shortlist, Review, and Reject recommendations.
 
 ### Recruitment Dashboard
 Provides key recruitment metrics:
