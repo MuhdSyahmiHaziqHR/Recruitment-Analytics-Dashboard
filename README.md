@@ -97,11 +97,11 @@ Features:
 
 ### Recruitment Dashboard
 
-![Dashboard](Screenshots/Dashboard_Overview.png)
+![Dashboard](Recruitment%20Analytic%20Dashboard/Screenshots/Dashboard_Overview.png)
 
 ### Candidate Profile Analysis
 
-![Profile Analysis](Screenshots/Candidate_Profile.png)
+![Profile Analysis](Recruitment%20Analytic%20Dashboard/Screenshots/Candidate_Profile.png)
 
 
 ---
